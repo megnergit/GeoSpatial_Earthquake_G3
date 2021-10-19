@@ -49,7 +49,7 @@ threat of big eathquakes.
 
 ```
 * HTML files are made by `folium` package to vizualize geospatial data.
-# kgsp is a python module that contains functions used in the exercise. 
+* kgsp is a python module that contains functions used in the exercise. 
 ------------------------------------------------------------------
 END
 
