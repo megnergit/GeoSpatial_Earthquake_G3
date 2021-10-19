@@ -7,8 +7,6 @@ to get used to __Interactive Maps__. We will learn how to use `folium`
 with following functions.
 
 * Map
-* Marker
-* MarkerCluster
 * Circle (= bubble map)
 * HeatMaps
 * Choropleth
@@ -51,6 +49,7 @@ threat of big eathquakes.
 
 ```
 * HTML files are made by `folium` package to vizualize geospatial data.
+# kgsp is a python module that contains functions used in the exercise. 
 ------------------------------------------------------------------
 END
 
