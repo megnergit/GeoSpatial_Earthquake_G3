@@ -2,9 +2,9 @@
 
 This is a notebook for the third lesson of the kaggle course
 ["Geospatial Analysis"](https://www.kaggle.com/learn/geospatial-analysis)
-prepared by Alexis Cook and Jessica Li. The main goal of the lesson is
+offered by Alexis Cook and Jessica Li. The main goal of the lesson is
 to get used to __Interactive Maps__. We will learn how to use `folium`
-with following functions.
+with the following functions.
 
 * Map
 * Circle (= bubble map)
@@ -21,7 +21,7 @@ with following functions.
 ------------------------------------------------------------------
 ## Task
 Visualize how the largest cities in Japan are vulnerable to the
-threat of big eathquakes.
+threat of big earthquakes.
 
 ------------------------------------------------------------------
 ## Directory Tree
@@ -48,7 +48,7 @@ threat of big eathquakes.
 └── requirements.txt
 
 ```
-* HTML files are made by `folium` package to vizualize geospatial data.
+* HTML files are made by `folium` package to visualize geospatial data.
 * kgsp is a python module that contains functions used in the exercise. 
 ------------------------------------------------------------------
 END
